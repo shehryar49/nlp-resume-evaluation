@@ -1,0 +1,50 @@
+c
+c++
+assembly
+python
+java
+javascript
+html
+css
+lua
+ruby
+rust
+go
+swift
+objective-c
+android development
+ios development
+mobile development
+web development
+machine learning
+data science
+embedded development
+data structures
+tensorflow
+pytorch
+pandas
+reactjs
+nextjs
+vue
+angular
+bootstrap
+sdl
+flex
+bison
+llvm
+compiler
+libcurl
+websockets
+socket
+springboot
+laravel
+django
+fastapi
+flask
+sql
+mongodb
+mysql
+postgresql
+mssql
+qt
+php
